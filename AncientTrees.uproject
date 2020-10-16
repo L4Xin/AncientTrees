@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{36C5A10A-44AE-E713-D7AF-B48B358103B8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AncientTrees",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
