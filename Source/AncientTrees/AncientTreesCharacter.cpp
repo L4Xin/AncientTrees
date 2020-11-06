@@ -132,3 +132,4 @@ void AAncientTreesCharacter::MoveRight(float Value)
 		AddMovementInput(Direction, Value);
 	}
 }
+
